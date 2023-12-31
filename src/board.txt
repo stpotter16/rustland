@@ -1,1 +1,1 @@
-r,g,b,y,p,o,bss,y,b,o,bse,pm
+r,g,b,y,p,o,b,y,b,o,b
